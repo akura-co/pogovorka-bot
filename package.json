@@ -17,7 +17,7 @@
   "homepage": "https://github.com/akura-co/pogovorka-bot",
   "pogovorka-bot": {
     "url": "https://api.telegram.org/bot",
-    "setWebhook": "https://akura.co/telegram/pogovorkaBot/hook",
+    "setWebhook": "https://akura.co/telegram/pogovorka-bot/hook",
     "proverb": [
       "Близко локоть, да не укусишь.",
       "Бог ведает, кто как обедает.",
